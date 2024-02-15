@@ -1,3 +1,11 @@
+# QuizGenius
+# Author: MALALATIANA Hervean Rolando
+# Email: herveanrolando@gmail.com
+# Version: 1.0
+# Date: 02/15/2024
+# Description: An interactive text-based quiz game featuring multiple categories including capitals, animals, and general knowledge.
+# License: MIT License. See LICENSE.md for more information.
+
 import random
 
 class QuizGame:
