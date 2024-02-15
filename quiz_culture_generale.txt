@@ -1,0 +1,20 @@
+Quelle est la capitale du Japon ?|Tokyo,Shanghai,Pékin,Séoul|Tokyo
+Qui a peint la Joconde ?|Leonard de Vinci,Vincent van Gogh,Pablo Picasso,Claude Monet|Leonard de Vinci
+Quelle est la monnaie du Royaume-Uni ?|Livre sterling,Euro,Dollar livre sterling,Dollar britannique|Livre sterling
+Quel est le plus grand océan du monde ?|Pacifique,Atlantique,Indien,Arctique|Pacifique
+Quelle est la plus haute montagne du monde ?|Everest,K2,Kangchenjunga,Lhotse|Everest
+Qui a écrit "Roméo et Juliette" ?|William Shakespeare,Charles Dickens,Emily Brontë,Jane Austen|William Shakespeare
+Quel est le plus grand désert du monde ?|Désert du Sahara,Désert de Gobi,Désert de l'Arabie,Désert du Kalahari|Désert du Sahara
+Quel est le plus grand pays du monde en superficie ?|Russie,Canada,Chine,États-Unis|Russie
+Qui a découvert l'Amérique ?|Christophe Colomb,Amerigo Vespucci,Vasco de Gama,Ferdinand Magellan|Christophe Colomb
+Quelle est la capitale de l'Australie ?|Canberra,Sydney,Melbourne,Brisbane|Canberra
+Quel est le pays d'origine du tango ?|Argentine,Brésil,Chili,Uruguay|Argentine
+Qui a écrit "Les Misérables" ?|Victor Hugo,Émile Zola,Gustave Flaubert,Honoré de Balzac|Victor Hugo
+Quel est l'élément le plus abondant dans l'univers ?|Hydrogène,Hélium,Oxygène,Carbone|Hydrogène
+Quel est le plus grand fleuve du monde ?|Amazone,Nil,Yangzi Jiang,Indus|Amazone
+Quelle est la langue la plus parlée dans le monde ?|Mandarin,Anglais,Espagnol,Hindi|Mandarin
+Qui a écrit "Le Petit Prince" ?|Antoine de Saint-Exupéry,Marcel Proust,Albert Camus,Gustave Flaubert|Antoine de Saint-Exupéry
+Quelle est la capitale de l'Inde ?|New Delhi,Mumbai,Calcutta,Bangalore|New Delhi
+Quel est le plus grand mammifère du monde ?|Baleine bleue,Éléphant,Girafe,Requin baleine|Baleine bleue
+Quelle est la devise de la France ?|Liberté, Égalité, Fraternité,Amour, Paix, Bonheur,Justice, Fierté,Démocratie, Unité, Justice|Liberté, Égalité, Fraternité
+Quel est le symbole chimique du fer ?|Fe,Fr,Fa,Fo|Fe

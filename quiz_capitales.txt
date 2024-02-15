@@ -1,0 +1,20 @@
+Quelle est la capitale de la France ?|Paris,Londres,Berlin,Madrid|Paris
+Quelle est la capitale de l'Allemagne ?|Berlin,Londres,Rome,Madrid|Berlin
+Quelle est la capitale de l'Espagne ?|Madrid,Londres,Rome,Paris|Madrid
+Quelle est la capitale de l'Italie ?|Rome,Londres,Berlin,Madrid|Rome
+Quelle est la capitale du Royaume-Uni ?|Londres,Paris,Berlin,Madrid|Londres
+Quelle est la capitale de la Belgique ?|Bruxelles,Londres,Berlin,Paris|Bruxelles
+Quelle est la capitale de la Suisse ?|Berne,Londres,Rome,Paris|Berne
+Quelle est la capitale des Pays-Bas ?|Amsterdam,Londres,Berlin,Paris|Amsterdam
+Quelle est la capitale de la Russie ?|Moscou,Londres,Berlin,Paris|Moscou
+Quelle est la capitale du Portugal ?|Lisbonne,Londres,Berlin,Paris|Lisbonne
+Quelle est la capitale de la Grèce ?|Athènes,Londres,Berlin,Paris|Athènes
+Quelle est la capitale de la Suède ?|Stockholm,Londres,Berlin,Paris|Stockholm
+Quelle est la capitale de l'Autriche ?|Vienne,Londres,Berlin,Paris|Vienne
+Quelle est la capitale de la Norvège ?|Oslo,Londres,Berlin,Paris|Oslo
+Quelle est la capitale de la Finlande ?|Helsinki,Londres,Berlin,Paris|Helsinki
+Quelle est la capitale du Danemark ?|Copenhague,Londres,Berlin,Paris|Copenhague
+Quelle est la capitale de l'Irlande ?|Dublin,Londres,Berlin,Paris|Dublin
+Quelle est la capitale de la Pologne ?|Varsovie,Londres,Berlin,Paris|Varsovie
+Quelle est la capitale de la République tchèque ?|Prague,Londres,Berlin,Paris|Prague
+Quelle est la capitale de la Hongrie ?|Budapest,Londres,Berlin,Paris|Budapest

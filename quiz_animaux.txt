@@ -1,0 +1,20 @@
+Quel est le plus grand animal terrestre ?|Éléphant,Girafe,Requin baleine,Lion|Éléphant
+Combien de pattes a une araignée ?|6,8,10,12|8
+Quel est le plus rapide des animaux terrestres ?|Guépard,Lion,Tigre,Léopard|Guépard
+Quel est le seul animal capable de voler ?|Chauve-souris,Oiseau,Dragon,abeille|Chauve-souris
+Quel est le plus grand mammifère marin ?|Baleine,Requin,Orque,Dauphin|Baleine
+Quel est le plus grand animal du monde ?|Baleine,Éléphant,Girafe,Tigre|Baleine
+Quel est le plus petit oiseau du monde ?|Colibri,Moineau,Pigeon,Corbeau|Colibri
+Quel animal est connu pour ses rayures noires et blanches ?|Zèbre,Lion,Tigre,Ours|Zèbre
+Quel est le plus grand félin du monde ?|Tigre,Lion,Léopard,Panthère|Tigre
+Quel est l'animal national de l'Australie ?|Kangourou,Koala,Platypus,Émeu|Kangourou
+Quel animal a la plus longue période de gestation ?|Éléphant,Requin baleine,Girafe,Tigre|Éléphant
+Quel animal est surnommé "l'homme des forêts" ?|Orang-outan,Gorille,Chimpanzé,Singe|Orang-outan
+Quel est le plus gros rongeur du monde ?|Castor,Capibara,Souris,Rat|Capibara
+Quel est l'animal emblématique de la Chine ?|Panda,Buffle,Tigre,Léopard|Panda
+Quel animal est connu pour sa trompe ?|Éléphant,Girafe,Lion,Tigre|Éléphant
+Quel est l'animal terrestre le plus rapide ?|Guépard,Tigre,Lion,Leopard|Guépard
+Quel est le plus grand prédateur terrestre ?|Ours,Lion,Tigre,Éléphant|Tigre
+Quel animal est surnommé "le roi de la jungle" ?|Lion,Tigre,Éléphant,Girafe|Lion
+Quel animal est capable de changer de couleur ?|Caméléon,Panthère,Tigre,Lion|Caméléon
+Quel animal est le plus venimeux au monde ?|Méduse,Araignée serpent de mer,Pieuvre Bleue,Scorpion|Araignée serpent de mer
